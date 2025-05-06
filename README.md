@@ -1,56 +1,33 @@
-# Welcome Build Speakers!
-
-- You are the direct owner of this repo!  Check it out at [https://repos.opensource.microsoft.com/orgs/microsoft/repos/<this-repo>](https://repos.opensource.microsoft.com/orgs/microsoft/repos/<this-repo>).
-- Once you find your repo in the open source portal, bookmark that link, because you'll be deleting these instructions before you go live.
-- As an owner, it is your responsibility to release it to the public _and_ maintain it! See Release Steps and Maintaining this repo sections below.
-- Projects, Wiki, and Discussions are disabled in this repo, though you can turn them back on if you wish to support them. 
-- If you have not set this repo to public by the end of build, we will permanently delete it.
-
-## Maintaining this repo
-- As an owner of this repo, its your responsbility to respond to PRs and issues submitted to this repo in less than 2 weeks while it is active.
-- We will archive this repo on July 30th, 2025, unless you opt in to keeping it active and further maintaining it.
-
-## Content to add
-- Fill out the rest of this readme as needed.
-- Use subfolders necessary for delivering your call to action. Delete any unused folders.
-- Do not substitute official product documentation posted on learn with content posted in this repo.  Official product documentation belongs on Learn only.
-- In session resources below, add a link back to your session on the build website so people can find you there.
-- All source code files need to include following header:
-  
-    ```
-    Copyright (c) Microsoft Corporation. 
-    
-    Licensed under the MIT license.
-    ```
- - Review SUPPORT.md and make any additions you'd like to support for help.
-   
-## Elevating your permissions
-In order to take administrative steps, including making your repo public, you will need to elevate your account to Admin permissions temporarily.
-1. Visit this repos homepage in the opensource portal at https://repos.opensource.microsoft.com/orgs/microsoft/repos/<this-repo>.
-1. On the right side of the page, under Direct Owner access, click Elevate your access and follow the prompts for Just-in time access.
-1. Come back to github, and refresh the repo.  You should see a new Settings tab.
-
-## Release Steps
-1. Make sure you've followed steps at [https://docs.opensource.microsoft.com/releasing/](https://docs.opensource.microsoft.com/releasing/) regarding the release of your code.
-1. When you're ready to set the repo live:
-1. Make sure this "using this repo" section of the readme is deleted, e.g. everything above the banner graphic.
-1. Elevate your permissions to the repo in the open source portal.
-1. Come back to github, and click on the repo's `Settings` tab.
-1. Scroll down to the danger zone and click to change visibility of the repo.  Make the repos visibility `Public`.
 
 <p align="center">
 <img src="img/banner.jpg" alt="decorative banner" width="1200"/>
 </p>
-# Build25 [SESSION ID] - [SESSION TITLE]
+# Build25 BRK233 - Building Secure Business Apps: Best Practices for Design to Deployment
 
 ## Description
 
-Add your session description and information.  Feel free to retitle this heading.
+Join us for an insightful session on best practices and enablement topics for developing and deploying secure solutions within Business Applications (Copilot studio, Power Platform and Dynamics 365). We will look holistically at Power Platform features for Security under SFI pillars and explore Responsible AI with Purview and Copilot. We will further explore demos, design review checklists on product features under Secure by Design, Secure by Default, and Secure Operations for BizApps Solutions.
+Learning objectives of session for Makers / Developers include:
+
+
+1) Balancing governance and innovation​
+
+2) Power Platform Best Practices for Makers on Agent Development ​
+
+3) Demos
+
+4) Brief introduction of Microsoft Purview with Power Platform​
+
+5) Actionable Security Guidelines ​
+
+
+
+
 
 ## Content Owners
 
-Add Speaker name(s) and titles (required)
-Add your likeness (optional)
+Muhammad Aurangzeb - Sr. Partner Solution Architect
+
 
 ## Session Resources 
 
@@ -58,7 +35,7 @@ Add your likeness (optional)
 |:-------------------|:----------------------------------|:-------------------|
 | Build session page | https://build.microsoft.com/sessions/BRK233 | Event session page with downloadable recording, slides, resources, and speaker bio |
 | Session recording on YouTube | https://aka.ms/build2025/video/BRK233 | YouTube page with session recoding and speaker-moderated chat |
-|Microsoft Learn|aka.ms/build25/plans/friendlyname<br>aka.ms/build25/collection/friendlyname|Official Collection or Plan with skilling resources to learn at your own pace|
+
 
 
 ## Contributing
