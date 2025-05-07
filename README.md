@@ -2,6 +2,7 @@
 <p align="center">
 <img src="img/banner.jpg" alt="decorative banner" width="1200"/>
 </p>
+
 # Build25 BRK233 - Building Secure Business Apps: Best Practices for Design to Deployment
 
 ## Description
@@ -20,14 +21,9 @@ Learning objectives of session for Makers / Developers include:
 
 5) Actionable Security Guidelines ​
 
-
-
-
-
 ## Content Owners
 
 Muhammad Aurangzeb - Sr. Partner Solution Architect
-
 
 ## Session Resources 
 
