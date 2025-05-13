@@ -30,7 +30,8 @@ Muhammad Aurangzeb - Sr. Partner Solution Architect
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | Build session page | https://build.microsoft.com/sessions/BRK233 | Event session page with downloadable recording, slides, resources, and speaker bio |
-| Session recording on YouTube | https://aka.ms/build2025/video/BRK233 | YouTube page with session recoding and speaker-moderated chat |
+| Session recording on YouTube | https://aka.ms/build2025/video/BRK233 | YouTube page with session recoding and speaker-moderated chat (will be posted after Build) |
+| Microsoft Learn | https://aka.ms/build25/collection/BuildSecureApplications | Official Collection or Plan with skilling resources to learn at your own pace |
 
 
 
